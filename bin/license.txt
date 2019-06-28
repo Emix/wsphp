@@ -1,0 +1,21 @@
+ WSPHP.
+
+ 1. All copyrights to WSPHP are exclusively owned by the author - WSPHP, Inc.
+
+ 2. Anyone may use this software without any limits.
+
+ 3. Anyone may use one registered version of WSPHP for one project only. Registration key can be obtained at wsphp.net/order.php.
+
+ 4. You can freely distribute the program as long as you distribute the same package (or it's content) that can be found on wsphp.net website.
+
+ 5. WSPHP IS DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE AT YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+
+ 6. You may not use, copy, emulate, clone, rent, lease, sell, modify, decompile, disassemble, otherwise reverse engineer, or transfer the licensed program, or any subset of the licensed program, except as provided for in this agreement.  Any such unauthorized use shall result in immediate and automatic termination of this license and may result in criminal and/or civil prosecution.
+
+ 7. All rights not expressly granted here are reserved by WSPHP, Inc.
+
+ 8. The terms of this license, as well as the WSPHP interface design are subjects of changes in future versions of WSPHP.
+
+ 9. Installing and using WSPHP signifies acceptance of these terms and conditions of the license.
+
+10. If you do not agree with the terms of this license you must remove WSPHP files from your storage devices and cease to use the product.
